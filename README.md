@@ -3,9 +3,13 @@
 # README #
 
 1) after downloading this file
-2) use the command line to cd to the location of package.json
+
+2) use the command line to cd to the location of package.json file
+
 3) type: npm install
+
 4) type: npm run dev
+
 5) visit this url inside a browser: 
 http://localhost:3000/default.
 
